@@ -4,7 +4,7 @@
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas (ADS) - 2024
 - 🧪 Atuo na área de QA, com foco em automação de testes
 - 🌐 Tenho experiência em projetos web (B2B)
-- 📚 Pós-graduando em Desenvolvimento Full Stack, Segurança de Dados (MBA) e Privacidade e Proteção de Dados Pessoais
+- 📚 Pós-graduando em Desenvolvimento Full Stack (JAVA)
 
 ### 🛠️ Tecnologias e Ferramentas
 <div align="center">
